@@ -44,7 +44,7 @@ function Register() {
         <h1>Olá, Seja muito bem-vindo(a).</h1>
         <p>
           Eu sou o <strong>Aprendiz.IA</strong>, para se cadastrar é muito
-          simples e rápido! basta digitar seu nome, email e senha Porfavor.
+          simples e rápido! basta digitar seu nome, email e senha Por favor.
         </p>
       </ContainerTop>
 

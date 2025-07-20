@@ -75,7 +75,13 @@ function Home() {
           >
             Criar uma conta
           </ButtonHeader>
-          <ButtonHeader>Esqueci minha senha</ButtonHeader>
+          <ButtonHeader
+            onClick={() => {
+              alert("Por favor, crie uma conta.");
+            }}
+          >
+            Esqueci minha senha
+          </ButtonHeader>
         </ContainerButton>
       </ContainerBottom>
     </ContainerGlobal>
