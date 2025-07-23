@@ -19,14 +19,18 @@ Desenvolvido com **React**, **Vite**, **LocalStorage** e **GitHub Pages**
 - **Responsividade**: O projeto se adapta a diversos tipos de telas.
 - **Página de criação de conta**: você colocará seu nome, email e uma senha. 
 
-  ## Importante
+## Importante
 
   - Não é necessário usar um e-mail real do Gmail, Hotmail ou outro serviço externo.
   - O e-mail informado precisa seguir o padrão correto (ex.: nome@dominio.com), mesmo que fictício.
   - O cadastro e login são gerenciados localmente dentro do site.
   - Após criar sua conta, você será direcionado à página principal. Basta inserir seu e-mail e senha cadastrados para acessar o chat.
 
-    ## Sobre o Projeto
+## Sobre o Projeto
 
 - Este projeto é uma **simulação de um chat com IA**, feito para estudos e aprimoramento de habilidades.  
 Futuramente, pretendo lançar uma versão mais moderna, com integração ao **ChatGPT real**, oferecendo novas funcionalidades.
+
+## Acesse o Projeto
+
+[Clique aqui para acessar o Aprendiz.IA](https://jonathamcarvalho.github.io/Aprendiz.IA/)
